@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## How to run locally 
 Pull the repository\
 cd youtube\
-In the project directory, run \
+In the project directory, run 
 ### `npm install`
 
 Then you can run:
