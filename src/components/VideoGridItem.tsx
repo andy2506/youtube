@@ -45,7 +45,7 @@ export function VideoGridItem({ id, title, channel, views, postedAt, duration, t
         navigate(`/watch/${id}`);
     };
 
-    console.log("isVideoPlaying ", isVideoPlaying);
+    //console.log("isVideoPlaying ", isVideoPlaying);
     return (
         <div className="flex flex-col gap-2"
             onMouseEnter={() => setIsVideoPlaying(true)}
